@@ -351,7 +351,7 @@ For example, the element
 fulfills the predicate
 
 ```
-val:is-given-designator($element, `urn:oasis:names:tc:xspa:1.0:subject:organization-id`, `http://www.w3.org/2001/XMLSchema#anyURI`)
+val:is-given-designator($element, 'urn:oasis:names:tc:xspa:1.0:subject:organization-id', 'http://www.w3.org/2001/XMLSchema#anyURI')
 ```
 
 ### 3.4. `${Type}Match` predicates
